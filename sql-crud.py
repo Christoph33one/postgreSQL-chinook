@@ -79,6 +79,13 @@ tim_berners_lee = Programmer(
     nationality="British",
     famous_for="World Wide Web"
 )
+chris_browning = Programmer(
+    first_name="Chris",
+    last_name="Browning",
+    gender="M",
+    nationality="British",
+    famous_for="Student with Code Institute"
+)
 
 # add each instance of our programmers to our session
 # session.add(ada_lovelace)
